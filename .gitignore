@@ -1,4 +1,3 @@
-# Daftarkan file yang dilarang naik ke GitHub
 Data Visualization Case.pdf
 Deka_project_dataset_BankXYZ.xlsx
 healthcare copy.py
@@ -8,5 +7,4 @@ my streamlit gue.py
 my.py
 yes.py
 
-# Sembunyikan folder cache jika ada
 __pycache__/
