@@ -15,7 +15,7 @@ st.set_page_config(
 st.markdown("""
     <style>
     /* Background utama */
-    .main { background-color: #f8f9fa; }
+    .main { background-color: #F8FAFC; }
     
     /* =========================================================================
        KUSTOMISASI KOTAK METRIK (MEMBUAT ANGKA & JUDUL KE TENGAH)
